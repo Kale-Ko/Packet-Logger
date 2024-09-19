@@ -11,7 +11,6 @@
     "homepage": "https://github.com/haykam821/Packet-Logger#readme",
     "issues": "https://github.com/haykam821/Packet-Logger/issues"
   },
-  "environment": "client",
   "mixins": [
     "packetlogger.mixin.json"
   ],
