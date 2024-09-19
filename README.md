@@ -11,7 +11,8 @@ Packet Logger requires the [Fabric modloader](https://fabricmc.net/use/).
 ## Installation
 
 1. Download Packet Logger from [CurseForge](https://www.curseforge.com/minecraft/mc-mods/packet-logger/files) or [GitHub](https://github.com/haykam821/Packet-Logger/releases).
-2. Place the downloaded file in your `mods` folder.
+2. Place the downloaded file in your
+   `mods` folder.
 
 ## Usage
 
